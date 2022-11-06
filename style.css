@@ -1,14 +1,11 @@
 body {
-    background-image: url('https://wallpapercave.com/wp/wp5147454.jpg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    color: #FFFFFF;
+    background-color: #e0fbfc;
 }
 
 #canvas1 {
     background-color: white;
-    border: 3px solid black;
+    border-radius: 1cm;
+    border-color: #98c1d9;
     position: absolute;
     top: 50%;
     left: 50%;
